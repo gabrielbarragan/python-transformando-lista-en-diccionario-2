@@ -25,9 +25,10 @@ print(get_all_keys(person1, person2))
 >> ['name', 'age']
 ```
 
-> Tip: Se pueden obtener valores únicos con set.
 ```
 # unittest - TDD
 
 $ python test_get_all_keys.py
 ```
+
+> Tip: Se pueden obtener valores únicos con set.
