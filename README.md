@@ -31,4 +31,4 @@ print(get_all_keys(person1, person2))
 $ python test_get_all_keys.py
 ```
 
-> Tip: Se pueden obtener valores únicos con set.
+> Tip: Se pueden obtener valores únicos con `set`.
